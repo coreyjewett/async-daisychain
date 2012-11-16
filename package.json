@@ -1,6 +1,6 @@
 {
   "name": "async-daisychain",
-  "version": "0.0.1",
+  "version": "0.1.1",
   "description": "Easily create and manage daisychains of async queues.",
   "main": "lib/index.js",
   "scripts": {
